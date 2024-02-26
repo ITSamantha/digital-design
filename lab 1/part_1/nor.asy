@@ -1,0 +1,5 @@
+Version 4
+SymbolType BLOCK
+PIN -64 -32 RIGHT 20
+PINATTR PinName PIN1
+PINATTR SpiceOrder 1
