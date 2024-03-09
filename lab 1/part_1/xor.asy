@@ -1,0 +1,28 @@
+Version 4
+SymbolType BLOCK
+LINE Normal 32 -32 -16 -32
+LINE Normal 48 -24 32 -32
+LINE Normal 64 -16 48 -24
+LINE Normal 48 -8 64 -16
+LINE Normal 32 0 48 -8
+LINE Normal 0 0 32 0
+LINE Normal -16 0 0 0
+LINE Normal -16 0 -16 -32
+LINE Normal -32 0 -16 0
+LINE Normal -32 -32 -16 -32
+LINE Normal 16 -48 16 -32
+LINE Normal 80 -16 64 -16
+LINE Normal -10 0 -10 -32
+TEXT 0 -16 Left 1 XOR
+PIN -16 -32 NONE 8
+PINATTR PinName VIN1
+PINATTR SpiceOrder 1
+PIN -16 0 NONE 8
+PINATTR PinName VIN2
+PINATTR SpiceOrder 2
+PIN 16 -32 NONE 8
+PINATTR PinName VDD
+PINATTR SpiceOrder 3
+PIN 64 -16 NONE 8
+PINATTR PinName VOUT
+PINATTR SpiceOrder 4
