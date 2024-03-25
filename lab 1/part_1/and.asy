@@ -6,8 +6,11 @@ LINE Normal 64 -32 0 -32
 LINE Normal -32 -16 0 -16
 LINE Normal -32 16 0 16
 LINE Normal 128 0 96 0
-ARC Normal 32 -32 96 32 64 32 64 -32
-TEXT 35 -1 Left 1 AND
+LINE Normal 96 32 64 32
+LINE Normal 96 -32 96 32
+LINE Normal 64 -32 96 -32
+TEXT 37 -11 Left 1 AND
+TEXT 44 5 Left 2 &
 PIN 0 -16 NONE 8
 PINATTR PinName VIN1
 PINATTR SpiceOrder 1
